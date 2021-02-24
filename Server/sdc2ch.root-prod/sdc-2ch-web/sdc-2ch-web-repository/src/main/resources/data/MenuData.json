@@ -1,0 +1,307 @@
+[
+  {
+    "pgmId": "PGW-100",
+    "title": "배차관리",
+    "path": "#",
+    "items": [
+      {
+        "pgmId": "PGW-104",
+        "title": "배차확정",
+        "path": "/ui/caralc/dcsn.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-105",
+        "title": "출하관리",
+        "path": "/ui/caralc/unstoringManage.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-106",
+        "title": "알람현황",
+        "path": "/ui/caralc/alarmSttus.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-107",
+        "title": "배송상태관리",
+        "path": "/ui/caralc/dlvySttusManage.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-108",
+        "title": "위생점검표관리",
+        "path": "/ui/caralc/snitatChckTableManage.html",
+        "items": null
+      }
+    ]
+  },
+  {
+    "pgmId": "PGW-200",
+    "title": "분석",
+    "path": "#",
+    "items": [
+      {
+        "pgmId": "PGW-210",
+        "title": "운행분석",
+        "path": "#",
+        "items": [
+          {
+            "pgmId": "PGW-217",
+            "title": "운행률 분석",
+            "path": "/ui/anals/sensorData.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-211",
+            "title": "상차시간 분석",
+            "path": "/ui/anals/ldngTime.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-212",
+            "title": "배송시간 분석",
+            "path": "/ui/anals/dlvyTime.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-213",
+            "title": "고객센터 분석",
+            "path": "/ui/anals/dlvyLcTime.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-214",
+            "title": "상차 및 배송 현황",
+            "path": "/ui/anals/ldngAndDlvySttus.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-215",
+            "title": "일별 배송오차 현황",
+            "path": "/ui/anals/dailyDlvyErorSttus.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-216",
+            "title": "미도착 배송지 분석",
+            "path": "/ui/anals/noArvlDlvyLc.html",
+            "items": null
+          }
+        ]
+      },
+      {
+        "pgmId": "PGW-240",
+        "title": "물류비용분석",
+        "path": "#",
+        "items": [
+          {
+            "pgmId": "PGW-241",
+            "title": "물류비 분석(배송)",
+            "path": "/ui/anals/lgist.html",
+        	"items": null
+          },
+          {
+            "pgmId": "PGW-242",
+            "title": "물류비 분석(이고)",
+            "path": "/ui/anals/lgistEgo.html",
+        	"items": null
+          },
+          {
+            "pgmId": "PGW-243",
+            "title": "Sales BI 분석",
+            "path": "/ui/anals/salesbi.html",
+        	"items": null
+          }
+        ]
+      },
+      {
+        "pgmId": "PGW-220",
+        "title": "녹색물류분석",
+        "path": "/ui/DISP/DISP1200",
+        "items": [
+          {
+            "pgmId": "PGW-221",
+            "title": "탄소배출량 분석",
+            "path": "/ui/anals/co2Dscamt.html",
+        	"items": null
+          },
+          {
+            "pgmId": "PGW-222",
+            "title": "연비분석",
+            "path": "/ui/anals/mileg.html",
+        	"items": null
+          }
+        ]
+      },
+      {
+        "pgmId": "PGW-230",
+        "title": "관제",
+        "path": "/ui/DISP/DISP1200",
+        "items": [
+          {
+            "pgmId": "PGW-231",
+            "title": "차량관제",
+            "path": "/ui/anals/vhcleCntrl.html",
+        	"items": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pgmId": "PGW-300",
+    "title": "통계관리",
+    "path": "#",
+    "items": [
+      {
+        "pgmId": "PGW-301",
+        "title": "운행/휴게시간 통계",
+        "path": "/ui/stats/driveAndRestTime.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-302",
+        "title": "기간별 차량통계",
+        "path": "/ui/stats/period.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-303",
+        "title": "기간별 고객센터 통계",
+        "path": "/ui/stats/dlvyLc.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-304",
+        "title": "공장별 운행통계",
+        "path": "/ui/stats/fctry.html",
+        "items": null
+      },
+      {
+        "pgmId": "PGW-305",
+        "title": "차량별 운행통계",
+        "path": "/ui/stats/vhcle.html",
+        "items": null
+      }
+    ]
+  },
+  {
+    "pgmId": "PGW-400",
+    "title": "운영",
+    "path": "#",
+    "items": [
+      {
+        "pgmId": "PGW-410",
+        "title": "단말관리",
+        "path": "#",
+        "items": [
+          {
+            "pgmId": "PGW-411",
+            "title": "NFC단말 매핑 관리",
+            "path": "/ui/manage/nfc.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-415",
+            "title": "NFC지문 등록",
+            "path": "/ui/manage/biostar.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-412",
+            "title": "비콘 관리",
+            "path": "/ui/manage/bcon.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-413",
+            "title": "ARS관리",
+            "path": "/ui/manage/ars.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-414",
+            "title": "모바일APP관리",
+            "path": "/ui/manage/mobileApp.html",
+            "items": null
+          }
+        ]
+      },
+      {
+        "pgmId": "PGW-420",
+        "title": "이력조회",
+        "path": "#",
+        "items": [
+          {
+            "pgmId": "PGW-421",
+            "title": "GPS 전송이력",
+            "path": "/ui/manage/gpsHist.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-422",
+            "title": "NFC 태깅이력",
+            "path": "/ui/manage/nfcTagHist.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-423",
+            "title": "비콘 전송이력",
+            "path": "/ui/manage/bconHist.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-424",
+            "title": "모바일 APP 상태이력",
+            "path": "/ui/manage/mobileAppSttusHist.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-425",
+            "title": "시스템 기동이력",
+            "path": "/ui/manage/systemHist.html",
+            "items": null
+          }
+        ]
+      },
+      {
+        "pgmId": "PGW-430",
+        "title": "시스템관리",
+        "path": "#",
+        "items": [
+          {
+            "pgmId": "PGW-431",
+            "title": "알람설정",
+            "path": "/ui/manage/alarmSetup.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-432",
+            "title": "상차기준시간 관리",
+            "path": "/ui/manage/ldngStdTimeSetup.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-433",
+            "title": "배송기준시간 관리",
+            "path": "/ui/manage/dlvyStdTimeSetup.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-434",
+            "title": "프로그램 권한 관리",
+            "path": "/ui/manage/programAuthorSetup.html",
+            "items": null
+          },
+          {
+            "pgmId": "PGW-435",
+            "title": "배차작업 현황",
+            "path": "/ui/manage/caralcWorkSttus.html",
+            "items": null
+          }
+        ]
+      }
+    ]
+  }
+]

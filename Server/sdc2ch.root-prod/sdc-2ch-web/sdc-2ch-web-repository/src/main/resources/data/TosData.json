@@ -1,0 +1,24 @@
+[
+	{
+		"id": 1,
+		"title":"개인정보이용동의",
+		"contents":"개인정보이용동의",
+		"regType": "PRIVATE",
+		"major" : 1,
+		"minor" : 0,
+		"regUser": "System",
+		"regData": "2000-01-01",
+		"current" : true
+	},
+	{
+		"id": 2,
+		"title":"위치정보이용동의",
+		"contents":"위치정보이용동의",
+		"regType": "LOCATION",
+		"major" : 1,
+		"minor" : 0,
+		"regUser": "System",
+		"regData": "2000-01-01",
+		"current" : true
+	}
+]

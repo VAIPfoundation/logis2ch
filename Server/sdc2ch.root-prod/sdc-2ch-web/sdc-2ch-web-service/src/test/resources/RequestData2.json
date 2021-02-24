@@ -1,0 +1,57 @@
+{
+	"startName": "거점1",
+	"startX": "127.216006",
+	"startY": "37.095332",
+	"startTime": "201708081103",
+	"endName": "거점2",
+	"endX": "127.216006",
+	"endY": "37.095332",
+	"viaPoints": [
+		{
+			"viaPointId": "40378000",
+			"viaPointName": "연수남동",
+			"viaY": "37.4449255511",
+			"viaX": "126.6933083014"
+		},
+		{
+			"viaPointId": "40314000",
+			"viaPointName": "부평",
+			"viaY": "37.4771384860",
+			"viaX": "126.6999493200"
+		},
+		{
+			"viaPointId": "30535000",
+			"viaPointName": "서울우유 몰",
+			"viaY": "37.4826159269",
+			"viaX": "126.7056207553"
+		},
+		{
+			"viaPointId": "30535101",
+			"viaPointName": "서울우유 몰(우유)",
+			"viaY": "37.4826159269",
+			"viaX": "126.7056207553"
+		},
+		{
+			"viaPointId": "40384000",
+			"viaPointName": "유원푸드",
+			"viaY": "37.4724868575",
+			"viaX": "126.6210646244"
+		},
+		{
+			"viaPointId": "95614000",
+			"viaPointName": "서인천",
+			"viaY": "37.5383677055",
+			"viaX": "126.7201817201"
+		},
+		{
+			"viaPointId": "40465000",
+			"viaPointName": "부천(신)",
+			"viaY": "37.5270922845",
+			"viaX": "126.8040704608"
+		}
+	],
+	"reqCoordType": "WGS84GEO",
+	"resCoordType": "WGS84GEO",
+	"searchOption": 2,
+	"carType": 3
+}

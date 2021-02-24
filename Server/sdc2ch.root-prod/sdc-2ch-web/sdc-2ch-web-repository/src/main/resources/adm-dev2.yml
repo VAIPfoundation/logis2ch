@@ -1,0 +1,17 @@
+#adm.datasource.jdbc-url=jdbc\:mysql\://adas.aivision.co.kr\:3306/demo_dongwon_dev
+#adm.datasource.username=dev_dongwon
+#adm.datasource.password=dev_dongwon_1qw2
+#adm.datasource.driverClassName=com.mysql.jdbc.Driver
+#adm.datasource.driver-class-name=com.mysql.jdbc.Driver
+#adm.datasource.dbcp2.validation-query=select 1
+#adm.datasource.dbcp2.test-on-borrow=true
+
+adm:
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc\:mysql\://adas.aivision.co.kr\:3306/demo_dongwon_dev
+    driver-class-name: com.mysql.jdbc.Driver
+    username: dev_dongwon
+    password: dev_dongwon_1qw2
+    hikari:
+      idle-timeout: 10000

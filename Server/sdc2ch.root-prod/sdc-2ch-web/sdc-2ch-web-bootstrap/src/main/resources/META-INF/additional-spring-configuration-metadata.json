@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "sdc.2ch.otp.expired.min",
+  "type": "java.lang.String",
+  "description": "A description for 'sdc.2ch.otp.expired.min'"
+}]}

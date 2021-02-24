@@ -1,0 +1,58 @@
+		{
+			"startName" : "출발지",
+
+			"startX" : "126.92538308252452",
+			"startY" : "37.55380170209205",
+			"startTime" : "201708081103",
+			"endName" : "목적지",
+			"endX" : "127.03476088396728",
+			"endY" : "37.56091631455865",
+			"viaPoints" : 
+				[
+					 {
+						 "viaPointId" : "test01",
+						 "viaPointName" : "nmae01",
+						 "viaX" : "126.95516901365693" ,
+						 "viaY" : "37.55989998293894" 
+					 },
+					 {
+						 "viaPointId" : "test02",
+						 "viaPointName" : "nmae02",
+						 "viaX" : "126.96133272997655" ,
+						 "viaY" : "37.55014419524516" 
+					 },
+					 {
+						 "viaPointId" : "test03",
+						 "viaPointName" : "nmae03",
+						 "viaX" : "126.98589640012898" ,
+						 "viaY" : "37.563301875317684" 
+					 },
+					 {
+						 "viaPointId" : "test04",
+						 "viaPointName" : "nmae04",
+						 "viaX" : "126.96639674060093" ,
+						 "viaY" : "37.55837758579181" 
+					 },
+					 {
+						 "viaPointId" : "test05",
+						 "viaPointName" : "nmae05",
+						 "viaX" : "127.0034755980244" ,
+						 "viaY" : "37.568583005456176" 
+					 },
+					 {
+						 "viaPointId" : "test06",
+						 "viaPointName" : "nmae06",
+						 "viaX" : "127.00450556628239" ,
+						 "viaY" : "37.56191562292682" 
+					 },
+					 {
+						 "viaPointId" : "test07",
+						 "viaPointName" : "nmae07",
+						 "viaX" : "127.01909678332491" ,
+						 "viaY" : "37.56245992142041" 
+					 }
+					],
+			"reqCoordType" : "WGS84GEO",
+			"resCoordType" : "EPSG3857",
+			"searchOption": 0
+		}

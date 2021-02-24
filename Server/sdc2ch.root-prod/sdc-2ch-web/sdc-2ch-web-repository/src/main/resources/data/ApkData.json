@@ -1,0 +1,60 @@
+[{
+	"id": 1,
+	"name": "2ch-mobile-apk",
+	"size": 1024,
+	"majorVer": 1,
+	"minorVer": 0,
+	"current": false
+},
+{
+	"id": 2,
+	"name": "2ch-mobile-apk",
+	"size": 2048,
+	"majorVer": 1,
+	"minorVer": 1,
+	"current": false
+}
+,
+{
+	"id": 3,
+	"name": "2ch-mobile-apk",
+	"size": 3000,
+	"majorVer": 1,
+	"minorVer": 2,
+	"current": false
+}
+,
+{
+	"id": 4,
+	"name": "2ch-mobile-apk",
+	"size": 3002,
+	"majorVer": 1,
+	"minorVer": 3,
+	"current": false
+}
+,
+{
+	"id": 5,
+	"name": "2ch-mobile-apk",
+	"size": 3004,
+	"majorVer": 1,
+	"minorVer": 4,
+	"current": true
+},
+{
+	"id": 6,
+	"name": "2ch-mobile-apk",
+	"size": 3006,
+	"majorVer": 1,
+	"minorVer": 31,
+	"current": false
+},
+{
+	"id": 7,
+	"name": "2ch-mobile-apk",
+	"size": 3008,
+	"majorVer": 1,
+	"minorVer": 41,
+	"current": false
+}
+]
